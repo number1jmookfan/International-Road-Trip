@@ -1,0 +1,253 @@
+Afghanistan
+Akrotiri
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ashmore and Cartier Islands
+Australia
+Austria
+Azerbaijan
+Bahamas, The == Bahamas == The Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus == Belarus (Byelorussia)
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina == Bosnia-Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso == Burkina Faso (Upper Volta)
+Burma == Myanmar (Burma)
+Burundi
+Cabo Verde == cape verde
+Cambodia == Cambodia (Kampuchea)
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, Democratic Republic of the == Democratic Republic of the Congo == Congo, Democratic Republic of (Zaire)
+Congo, Republic of the == Republic of the Congo == Congo
+Cook Islands
+Coral Sea Islands
+Costa Rica
+Cote d'Ivoire == Cote D'Ivoire
+Croatia
+Cuba
+Curacao
+Cyprus
+Czechia == Czech Republic
+Denmark  -> exclude Denmark(Greenland)
+Dhekelia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini == Swaziland
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia, The == the gambia
+Gaza Strip
+Georgia
+Germany == German Federal Republic
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran == iran (persia)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy == Italy/Sardinia
+Jamaica
+Jan Mayen
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, North == North Korea == Korea, People's Republic of
+Korea, South = South Korea == Korea, Republic of
+Kosovo
+Kuwait
+Kyrgyzstan == Kyrgyz Republic
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, Federated States of == Federated States of Micronesia == Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nauru
+Navassa Island
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Macedonia == Macedonia (Former Yugoslav Republic of) == Former Yugoslav Republic of Macedonia == Macedonia == Macedonia, Former Yugoslav Republic of
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paracel Islands
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania == Rumania
+Russia == Russia (Soviet Union)
+Rwanda
+Saint Barthelemy
+Saint Helena, Ascension, and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and South Sandwich Islands
+South Sudan
+Spain
+Spratly Islands
+Sri Lanka == Sri Lanka (Ceylon)
+Sudan
+Suriname == Surinam
+Svalbard
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania == Tanzania/Tanganyika
+Thailand
+Timor-Leste == East Timor
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey (Turkiye) == Turkey == Turkey (Ottoman Empire)
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States == US == United States of America
+United States Pacific Island Wildlife Refuges
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam == Vietnam, Democratic Republic of
+Virgin Islands
+Wake Island
+Wallis and Futuna
+West Bank
+Yemen == Yemen (Arab Republic of Yemen)
+Zambia
+Zimbabwe == Zimbabwe (Rhodesia)

@@ -221,6 +221,9 @@ public class IRoadTrip {
     		//we print a precursor message to the path
     		System.out.println("Path from " + capitalize(country1) +" to " + capitalize(country2) + ":");
     		
+    		//measure how long the program takes to run
+    		long timeBefore = System.currentTimeMillis();
+    		
     		//then output the list correctly formatted
     		List<String> path = this.findPath(country1, country2);
     		//prints out every element in the path, if the path does not exist it will print nothing
@@ -228,6 +231,10 @@ public class IRoadTrip {
     			System.out.print(" - ");
     			System.out.println(s);
     		}
+    		
+    		long timeAfter = System.currentTimeMillis();
+    		
+    		System.out.println("Time Elapsed: " + (timeAfter-timeBefore) + " Milliseconds" );
     		
     	}
     }
